@@ -1,3 +1,11 @@
+# rotator-mechanics
+
+This is my branch of https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/-/tree/v3.1-pre-release, heavily modified for different drive motor strategy.
+
+Full credit goes to the team at SatNOGS - if I can get this build working I'll look at merging it in.
+
+---
+
 # SatNOGS Rotator
 
 Hardware for SatNOGS Rotator. This repository includes all needed source files for 3D printed (and other) parts of SatNOGS Rotator.
